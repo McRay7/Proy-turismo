@@ -1,0 +1,52 @@
+*
+{
+    margin: 10px;
+    
+}
+.padre
+{
+    background-color: red;
+    padding: 500px;
+}
+.nivel1
+{
+    background-color: yellow;
+    padding: 20px;
+    border-radius: 200px;
+}
+.nivel2
+{
+    background-color: green;
+    padding: 20px;
+    border-radius: 200px;
+}
+.nivel3
+{
+    background-color: purple;
+    padding: 20px;
+    border-radius: 200px;
+}
+.nivel4
+{
+    background-color: orange;
+    padding: 20px;
+    border-radius: 200px;
+}
+.nivel5
+{
+    background-color: black;
+    padding: 20px;
+    border-radius: 200px;
+}
+.nivel6
+{
+    background-color: white;
+    padding: 20px;
+    border-radius: 200px;
+}
+.nivel7
+{
+    background-color: blue;
+    padding: 20px;
+    border-radius: 200px;
+}
